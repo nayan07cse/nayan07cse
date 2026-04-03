@@ -62,8 +62,3 @@ Applied experiments in image understanding, prompt pipelines, and practical mult
 - Deployment and optimization of production AI pipelines
 
 ---
-
-## 📫 Connect
-
-- GitHub: https://github.com/nayan07cse
-- LinkedIn: [Nayan Nath](https://www.linkedin.com/in/nayan-chandra-nath/)
