@@ -27,7 +27,7 @@ Building industrial-grade AI applications and validating AI solutions in real-wo
 - AI Specialist / R&D Engineer in production environments
 - ML Research experience at RWTH Aachen
 - Publications in forecasting, fault detection, and applied machine learning
-- Strong foundation in Computer Vision, Deep Learning, deployment, and MLOps
+- Strong foundation in Software Engineering, Computer Vision, Deep Learning, Deployment, and MLOps
 
 ---
 
