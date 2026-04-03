@@ -1,59 +1,69 @@
-# 👋 Hi, I'm Nayan
+# 👋 Hi, I'm Nayan Nath
 
-AI Engineer focused on **Computer Vision, Multimodal AI, and Real-Time Intelligent Systems**.
+AI Engineer specializing in **Computer Vision, Industrial AI, and Multimodal Systems**.
 
-I build practical AI systems that combine **vision, language, and automation** for real-world applications.
+I build and deploy intelligent systems that move from **research prototypes to production-grade applications**, with a focus on real-time vision pipelines, industrial automation, and practical AI products.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-- 🔬 Focused on Computer Vision and Multimodal AI
-- ⚙️ Strong in Python, OpenCV, PyTorch, and Transformers
-- 🧠 Interested in production-grade AI systems
-- 📈 Currently improving real-time AI pipelines and model deployment workflows
+- Design and deploy production-ready AI systems
+- Build computer vision pipelines for industrial use-cases
+- Work across the full stack of applied AI: modeling, optimization, deployment, APIs, and infrastructure
+- Explore multimodal systems that combine vision and language
+
+---
+
+## 💼 Current Role
+
+**AI Specialist / R&D Engineer**  
+Building industrial-grade AI applications and validating AI solutions in real-world environments.
+
+---
+
+## 🔬 Background
+
+- AI Specialist / R&D Engineer in production environments
+- ML Research experience at RWTH Aachen
+- Publications in forecasting, fault detection, and applied machine learning
+- Strong foundation in Computer Vision, Deep Learning, deployment, and MLOps
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 Multimodal AI Interviewer
-An AI-powered interview system that combines computer vision and NLP to analyze candidate interaction and responses.
+### Industrial Defect Detection Pipeline
+Production-inspired computer vision workflows for defect detection, filtering, and configurable image processing.
 
-### 👁️ CvisionLib
-A modular computer vision framework for defect detection and configurable image-processing workflows.
+### Multimodal AI Interviewer
+A multimodal AI system combining computer vision and NLP for structured candidate interaction analysis.
 
-### 🤖 Custom GPT Experiments
-Lightweight GPT-style experiments for prompt pipelines, language workflows, and applied LLM systems.
+### Vision + Language AI Systems
+Applied experiments in image understanding, prompt pipelines, and practical multimodal applications.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python  
-**AI/ML:** PyTorch, Transformers, TensorFlow  
-**Computer Vision:** OpenCV  
-**Backend:** FastAPI  
-**Tools:** Git, GitHub, Linux
+**Languages:** Python, Java  
+**AI/ML:** PyTorch, TensorFlow, Transformers, CNNs, LSTMs  
+**Computer Vision:** OpenCV, image processing, machine vision  
+**Deployment:** Docker, REST APIs, Jenkins, CI/CD, TensorRT  
+**Infra/Tools:** Git, Linux, PostgreSQL, AWS
 
 ---
 
-## 📌 Current Focus
+## 📈 Current Focus
 
+- Industrial inspection AI
+- Real-time inference systems
 - Vision-language systems
-- Defect detection pipelines
-- Real-time AI applications
-- Practical multimodal products
+- Deployment and optimization of production AI pipelines
 
 ---
 
-## 🎯 Career Goal
-
-To build scalable, production-ready AI systems that connect research ideas with useful real-world applications.
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 - GitHub: https://github.com/nayan07cse
 - LinkedIn: [Nayan Nath](https://www.linkedin.com/in/nayan-chandra-nath/)
