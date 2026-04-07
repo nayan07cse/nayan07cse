@@ -46,11 +46,35 @@ Applied experiments in image understanding, prompt pipelines, and practical mult
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java  
-**AI/ML:** PyTorch, TensorFlow, Transformers, CNNs, LSTMs  
-**Computer Vision:** OpenCV, image processing, machine vision  
-**Deployment:** Docker, REST APIs, Jenkins, CI/CD, TensorRT  
-**Infra/Tools:** Git, Linux, PostgreSQL, AWS
+**Languages**  
+Python, Java, Shell Scripting
+
+**AI / Machine Learning**  
+PyTorch, Keras, CNNs, LSTMs, Transformers, Scikit-learn, PySpark
+
+**Computer Vision / Imaging**  
+OpenCV, Scikit-Image, Image Processing, Machine Vision
+
+**Data / Scientific Computing**  
+NumPy, SciPy, Pandas, Matplotlib, Seaborn
+
+**Deployment / MLOps / Production**  
+Docker, CI/CD, Jenkins, REST APIs, Microservices, Production Deployment, Ansible
+
+**Performance / Acceleration**  
+TensorRT, CUDA, NVIDIA stack optimization
+
+**Backend / Systems**  
+Flask, PostgreSQL, Database Design, Linux Server Administration
+
+**Cloud / Infrastructure**  
+AWS (SageMaker, EC2, S3)
+
+**Tools / Workflow**  
+Git, LaTeX, Agile Project Management, Visual Studio, PyCharm, IntelliJ IDEA
+
+**Operating Systems**  
+Linux, macOS, Windows
 
 ---
 
