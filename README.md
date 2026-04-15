@@ -21,13 +21,5 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.lines.svg" width="100%">
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.stars.svg" width="100%">
-</p>
-
-<p align="center">
   <img src="./metrics.plugin.repositories.svg" width="100%">
 </p>
