@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.achievements.svg" alt="Achievements" width="100%">
-</p>
-
-<p align="center">
   <img src="./metrics.plugin.habits.svg" alt="Coding Habits" width="100%">
 </p>
 
