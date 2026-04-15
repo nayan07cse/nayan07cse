@@ -15,13 +15,6 @@ I build and deploy intelligent systems that move from **research prototypes to p
 
 ---
 
-## 💼 Current Role
-
-**AI Specialist / R&D Engineer**  
-Building industrial-grade AI applications and validating AI solutions in real-world environments.
-
----
-
 ## 🔬 Background
 
 - AI Specialist / R&D Engineer in production environments
@@ -29,18 +22,6 @@ Building industrial-grade AI applications and validating AI solutions in real-wo
 - Publications in forecasting, fault detection, and applied machine learning
 - Strong foundation in Software Engineering, Computer Vision, Deep Learning, Deployment, and MLOps
 
----
-
-## 🔥 Featured Projects
-
-### Industrial Defect Detection Pipeline
-Production-inspired computer vision workflows for defect detection, filtering, and configurable image processing.
-
-### Multimodal AI Interviewer
-A multimodal AI system combining computer vision and NLP for structured candidate interaction analysis.
-
-### Vision + Language AI Systems
-Applied experiments in image understanding, prompt pipelines, and practical multimodal applications.
 
 ---
 
@@ -84,5 +65,3 @@ Linux, macOS, Windows
 - Real-time inference systems
 - Vision-language systems
 - Deployment and optimization of production AI pipelines
-
----
