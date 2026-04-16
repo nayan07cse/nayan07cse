@@ -1,10 +1,13 @@
-<h1 align="center"> Nayan Nath </h1>
+<h1 align="center">Nayan Nath</h1>
 
 <p align="center">
+  <!-- Add this block AFTER snake workflow works -->
+  <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayan07cse/nayan07cse/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nayan07cse/nayan07cse/output/github-contribution-grid-snake.svg">
   </picture>
+  -->
 </p>
 
 <p align="center">
